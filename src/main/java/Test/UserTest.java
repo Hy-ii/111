@@ -1,5 +1,6 @@
 package Test;
 //这是修改测试
+//这是GitHub修改
 import com.itheima.pojo.User;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.*;
