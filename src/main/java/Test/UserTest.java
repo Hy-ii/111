@@ -1,5 +1,5 @@
 package Test;
-
+//这是修改测试
 import com.itheima.pojo.User;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.*;
@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.io.Reader;
 import java.io.InputStream;
 import java.sql.Connection;
-import java.util.List;
+
 
 public class UserTest {
     @Test
